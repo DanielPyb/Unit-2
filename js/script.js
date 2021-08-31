@@ -3,7 +3,7 @@ Treehouse Techdegree:
 FSJS Project 2 - Data Pagination and Filtering
 */
 
-let studentsPerPage = 9; // this is how many of the students will be displayed per page also gives to possibilty to change
+let studentsPerPage = 9; // this is how many of the students will be displayed, having it as a variable it gives the possibilty to change later
 
 
 /*
